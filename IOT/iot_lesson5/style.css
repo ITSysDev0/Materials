@@ -1,0 +1,22 @@
+.button1{
+    text-align:center;
+    top: 30px;
+    left: 20px;
+    width: 200px;
+    position: absolute;
+}
+.text1{
+    text-align:center;
+    top: 60px;
+    left: 20px;
+    width: 200px;
+    position: absolute;
+}
+.button2{
+    text-align:center;
+    top: 90px;
+    left: 20px;
+    width: 200px;
+    background-color: lightgreen;
+    position: absolute;
+}
